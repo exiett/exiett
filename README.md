@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working with Cloud Security.
 - 🌱 I’m currently learning Docker and Kubernetes oriented towards the CKA certification.
-- 👯 I’m looking to collaborate on projects that involve the Security in the Cloud Environment.
-- 💬 Ask me about security, DevOps, DevSecOps and football!
-- 📫 How to reach me: exiett@aol.com
-- ⚡ Fun fact: My favorite hobby is Airsoft :P
+- 👯 I’m looking to collaborate on projects that involve Security in the Cloud Environment as well as useful tools.
+- 💬 Ask me about Security, DevOps, DevSecOps and football!
+- 📫 How to reach me: See LinkedIn below. :)
 
 <div align="center">
   <a href="https://github.com/exiett">
@@ -26,4 +25,12 @@
   
   ##
   
-  
+<div> 
+ <a href="https://www.linkedin.com/in/luteixeira1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:exiett@aol.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/exiett/exiett/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+  ##
