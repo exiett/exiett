@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently working with Cloud Security.
-- 🌱 I’m currently learning Docker and Kubernetes oriented towards the CKA certification.
+- 🌱 I’m currently learning Offensive Security.
 - 👯 I’m looking to collaborate on projects that involve Security in the Cloud Environment as well as useful tools.
 - 💬 Ask me about Security, DevOps, DevSecOps and football!
-- 📫 How to reach me: See LinkedIn below. :)
+- 📫 How to reach me: See LinkedIn below.
 
 <div align="center">
   <a href="https://github.com/exiett">
