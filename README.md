@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working with Cloud Security.
-- 🌱 I’m currently learning Offensive Security.
-- 👯 I’m looking to collaborate on projects that involve Security in the Cloud Environment as well as useful tools.
-- 💬 Ask me about Security, DevOps, DevSecOps and football!
+- 🔭 I’m currently working with Network Security
+- 🌱 I’m currently learning low level networking.
+- 👯 I’m looking to collaborate on projects that involve Security in the Cloud Environment, firewalls, bots, scrapers as well as useful tools.
+- 💬 Ask me about Security, Networks, DevSecOps and football!
 - 📫 How to reach me: See LinkedIn below.
 
 <div align="center">
